@@ -1,0 +1,7 @@
+6
+buying 4 vhigh  high  med  low
+maint 4 vhigh  high  med  low
+doors 4 2  3  4  5more
+persons 3 2  4  more
+lug_boot 3 small  med  big
+safety 3 low  med  high

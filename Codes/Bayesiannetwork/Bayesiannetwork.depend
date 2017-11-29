@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1502228767 source:d:\code\project_data2017\bayesiannetwork\main.cpp
+	<iostream>
+	<stdlib.h>
+	<sys/time.h>
+	"bayesiannetwork.h"
+	"naivebayesian.h"
+
+1502214260 source:d:\code\project_data2017\bayesiannetwork\bayesian.cpp
+	"bayesian.h"
+	<iostream>
+
+1494513351 d:\code\project_data2017\bayesiannetwork\bayesian.h
+
+1502228487 source:d:\code\project_data2017\bayesiannetwork\bayesiannetwork.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<queue>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<sys/time.h>
+	"bayesiannetwork.h"
+
+1502109164 d:\code\project_data2017\bayesiannetwork\bayesiannetwork.h
+	"bayesian.h"
+
+1502109164 d:\code\project_data2017\bayesiannetwork\naivebayesian.h
+	"bayesian.h"
+
+1502235749 source:d:\code\project_data2017\bayesiannetwork\naivebayesian.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<math.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"naivebayesian.h"
+

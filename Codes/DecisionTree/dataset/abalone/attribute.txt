@@ -1,0 +1,9 @@
+8
+Sex 3 M F I
+Length 0
+Diameter 0
+Height 0
+Wholeweight 0
+Shuckedweight 0
+Visceraweight 0
+Shellweight 0

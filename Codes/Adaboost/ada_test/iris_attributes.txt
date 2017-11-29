@@ -1,0 +1,6 @@
+3 Iris-setosa Iris-versicolor Iris-virginica
+4 c c c c
+sepallength
+sepalwidth
+petallength
+petalwidth

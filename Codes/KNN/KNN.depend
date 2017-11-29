@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493299240 source:d:\code\project_data2017\knn\main.cpp
+	<map>
+	<vector>
+	<stdio.h>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<string>
+

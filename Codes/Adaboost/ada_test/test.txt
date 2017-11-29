@@ -1,0 +1,6 @@
+vhigh vhigh 2 2 small med unacc
+vhigh vhigh 4 2 small high unacc
+vhigh low 4 2 med med unacc
+med low 2 4 med high unacc
+med low 3 4 med high good
+med low 3 4 big med good

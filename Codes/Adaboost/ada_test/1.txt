@@ -1,0 +1,3 @@
+2 No Yes
+1 c
+income
